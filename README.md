@@ -1,4 +1,4 @@
-# 20.1_Capstone
+# 24.1_Capstone
 # Capstone Project: Predicting Customer Churn in the Telecom Industry
 
 **Author**  

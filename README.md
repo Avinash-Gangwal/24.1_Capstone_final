@@ -102,6 +102,13 @@ Evaluate model performance using:
 
 ---
 
+<img width="749" alt="Screenshot 2025-03-18 at 6 12 41 PM" src="https://github.com/user-attachments/assets/b112d57e-91b2-47ef-8a3e-be4b5b6580d8" />
+
+
+### **Conclusion**
+The Random Forest Classifier achieved the highest accuracy (84%) and ROC-AUC score (89%), making it the most suitable model for predicting customer churn in this dataset.
+
+
 ## Results
 Key findings include:
 1. Customers with month-to-month contracts and higher monthly charges are more likely to churn.
